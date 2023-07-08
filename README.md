@@ -2,9 +2,10 @@
 
 A beautiful sign in app design based on Flutter & Flare teddy animation.
 
- #### For App : valid email: christiansousadev@gmail.com & password: teste123
+![Meu Vídeo-2](https://github.com/christiansousadev/teddy-flutter_login/assets/103544118/3276b9b4-cbbd-42b7-b605-d0bceef7e5c7)
 
-<img align = "right" src="![Meu Vídeo-2](https://github.com/christiansousadev/teddy-flutter_login/assets/103544118/f6bf6747-328e-4f76-b428-f15fb53c296c)" height="500">
+
+ #### For App : valid email: christiansousadev@gmail.com & password: teste123
 
 ## Features
   * [x] [Check if email is valid or not.]
